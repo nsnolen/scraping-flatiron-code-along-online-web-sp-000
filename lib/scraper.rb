@@ -6,7 +6,7 @@ require_relative './course.rb'
 require 'pry'
 
 class Scraper
-  
+
   #def print_courses
     #self.make_courses
   #  Course.all.each do |course|
